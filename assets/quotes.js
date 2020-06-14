@@ -1,20 +1,4 @@
 // prettier-ignore
 export default [
-    { author: "srofnxr", quotes: "Hi, Eci.." },
-    { author: "srofnxr", quotes: "Gua harap ketika lo inget gua" },
-    { author: "srofnxr", quotes: "bukan mengingat hal bodoh ketika gua nyakitin lo ya" },
-    { author: "srofnxr", quotes: "melainkan mengingat semua kenangan yang pernah kita lakuin bersama sama" },
-    { author: "srofnxr", quotes: "gua harap lo ga benci gua, meski itu mustahil" },
-    { author: "srofnxr", quotes: "gua ga peduli lo udah pacaran berapa kali" },
-    { author: "srofnxr", quotes: "dan pernah ngelakuin apa aja dengan mantan lo"},
-    { author: "srofnxr", quotes: "gua bakal tetep sayang sama lo apapun yang udah dan belum terjadi"},
-    { author: "srofnxr", quotes: "jika diberi kesempatan 1x lagi gua cuma mau nebus kesalahan gua"},
-    { author: "srofnxr", quotes: "dan gua ga akan menyia-nyiakan kesempatan itu"},
-    { author: "srofnxr", quotes: "sekiranya lo ngasih kesempatan dengan syarat"},
-    { author: "srofnxr", quotes: "gua bakal lakuin apapun itu demi memenuhi keinginan lo"},
-    { author: "srofnxr", quotes: "izinin gua buat bahagian lo lagi ci"},
-    { author: "srofnxr", quotes: "gua cuma mau serius sama lo"},
-    { author: "srofnxr", quotes: "gua harap lo masih ada perasaan ke gua ya"},
-    { author: "srofnxr", quotes: "maaf ya kalo lebay, jujur ini yang gua rasain"},
-    { author: "srofnxr", quotes: "loveyou ci, 28 februari:)"},
-];
+    { author: "srofnxr", quotes: "Hi, Eci Masih inget gua kan? Gua harap ketika lo inget gua, bukan mengingat hal bodoh ketika gua nyakitin lo ya, melainkan mengingat semua kenangan yang pernah kita lakuin bersama sama, gua harap lo ga benci gua, meski itu mustahil, jujur sampe detik ini gua masih sayang banget sama lo, gua bakal tetep sayang sama lo apapun yang udah dan belum terjadi, jika diberi kesempatan 1x lagi gua cuma mau nebus kesalahan gua, dan gua ga akan menyia-nyiakan kesempatan itu, sekiranya lo ngasih kesempatan dengan syarat, gua bakal lakuin apapun itu demi memenuhi keinginan lo, izinin gua buat bahagian lo lagi ci, gua cuma mau serius sama lo, gua harap lo masih ada perasaan ke gua ya, walau itu hanya sedikit, maaf ya kalo lebay, jujur ini yang gua rasain, loveyou ci, 28 februari" }
+    ];
