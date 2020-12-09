@@ -1,10 +1,10 @@
 export default {
-  nicknames: ["Desi", "Ramdhani", "eci"],
+  nicknames: ["Desi", "eci"],
   greetings: {
     evening: "Good Evening",
     afternoon: "Good Afternoon",
     day: "Good Day",
     morning: "Good Morning",
-    night: "Good Night"
+    night: "Happy Birthday"
   }
 };
